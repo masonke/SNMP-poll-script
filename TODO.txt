@@ -1,0 +1,4 @@
+1) Put in a selector between CSV and Key:Value output.
+2) Zero the initial output to prevent the large spike due to empty previous value. 
+3) Enable creating an output file with date and time. 
+4) Add other examples
