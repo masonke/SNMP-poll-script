@@ -13,8 +13,7 @@
 POLLRATE=10
 OutputSelect=1
 DEVICE=10.89.254.200
-#CSTRING=y9ugiq7vEqOB
-CSTRING=wPeZ6kiG42oZhg
+CSTRING=xxxxxxxxxxxxxx
 # Set the IfIndex for the device here using "sh snmp mib ifmib ifindex eth 0/0"
 IfIndex=1
 # Grab these 4 variables
