@@ -9,6 +9,8 @@
 #1.3.6.1.2.1.31.1.1.1.10 = IF-MIB::ifHCInOctets Bytes
 #1.3.6.1.2.1.31.1.1.1.15 = IF-MIB::ifHighSpeed  Int Speed in Megabits/s
 # http://tools.cisco.com/Support/SNMP/do/BrowseOID.do?local=en&translate=Translate&objectInput=1.3.6.1.2.1.31.1.1.1
+# https://www.iana.org/assignments/smi-numbers/smi-numbers.xhtml#smi-numbers-24
+# http://www.net-snmp.org/docs/mibs/interfaces.html
 
 POLLRATE=10
 OutputSelect=1
