@@ -6,3 +6,5 @@ Back pocket bash script to poll specific oids at a high rate. This allows pollin
 https://www.iana.org/assignments/smi-numbers/smi-numbers.xhtml#smi-numbers-24
 
 http://www.net-snmp.org/docs/mibs/interfaces.html
+
+https://github.com/hardaker/net-snmp/blob/master/mibs/IF-MIB.txt
